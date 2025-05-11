@@ -1,0 +1,9 @@
+site_name: Merganser Softworks
+
+theme:
+    name: mkdocs
+
+nav:
+    - index.md
+    - getting-started.md
+
