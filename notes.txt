@@ -1,0 +1,29 @@
+gh settings to review
+- https://github.com/organizations/Merganser-Softworks/settings/security_products
+- https://github.com/organizations/Merganser-Softworks/settings/security_analysis
+- https://github.com/organizations/Merganser-Softworks/settings/personal-access-tokens
+
+docs organization
+- https://www.mkdocs.org/user-guide/writing-your-docs/#file-layout
+- https://daringfireball.net/projects/markdown/syntax#philosophy
+- getting-started
+- engineering-process
+  - software lifecycle
+  - source control + build + deployment + monitoring
+- specification-architecture-howtos
+  - specification
+  - architecture
+  - howtos
+
+- templates + workflows
+  - also update/modify https://github.com/hlatourette/template-lib-cpp/blob/master/.github/workflows/docker-image.yml (name -> build) checkout@v(?)
+  - also https://github.com/hlatourette/template-app-cpp/tree/master/.github/workflows
+  - https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-with-github-actions
+  - https://docs.github.com/en/actions/sharing-automations/creating-actions/about-custom-actions
+  - https://docs.github.com/en/actions/sharing-automations/creating-actions/creating-a-docker-container-action
+  - https://docs.github.com/en/actions/sharing-automations/reusing-workflows#creating-a-reusable-workflow
+  - https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
+  - https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
+  - https://stackoverflow.com/questions/77600976/implement-github-actions-on-organisation-level
+  - https://github.com/marketplace/actions/doxygen-action
+
